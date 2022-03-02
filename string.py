@@ -1,4 +1,3 @@
-name = "muheesh"
-
-print(name.capitalize())
+a = "abc121"
+print(a.isalnum())
 
